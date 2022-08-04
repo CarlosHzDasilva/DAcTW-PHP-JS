@@ -1,0 +1,8 @@
+* {
+  cursor: default;
+  user-select: none;
+}
+
+.active {
+  color: red;
+}

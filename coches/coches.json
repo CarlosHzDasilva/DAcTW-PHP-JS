@@ -1,0 +1,162 @@
+{"coches":[
+    {
+        "id": 1,
+        "marca": "seat",
+        "modelo" : "Tarraco",
+        "años": "10",
+        "kilometraje": "100560",
+        "combustible": "gasolina",
+        "precio": "5000€",
+        "fichero": "Blue_Diamond.jpg"
+    },
+    {
+        "id": 2,
+        "marca": "volkswagen",
+        "modelo" : "Golf",
+        "años": "10",
+        "kilometraje": "125364",
+        "combustible": "eléctrico",
+        "precio": "5800€",
+        "fichero": "Blue_Sunset.jpg"
+    },
+    {
+        "id": 3,
+        "marca": "audi",
+        "modelo" : "A4",
+        "años": "5",
+        "kilometraje": "45620",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Classic.jpg"
+    },
+    {
+        "id": 4,
+        "marca": "Land Rover",
+        "modelo" : "Evoque Cabrio",
+        "años": "3",
+        "kilometraje": "150000",
+        "combustible": "híbrido",
+        "precio": "5850€",
+        "fichero": "Descapotable_White_Beach.jpg"
+    },
+    {
+        "id": 5,
+        "marca": "Dacia",
+        "modelo" : "Duster 2021",
+        "años": "7",
+        "kilometraje": "50000",
+        "combustible": "eléctrico",
+        "precio": "7300€",
+        "fichero": "Family_Saver.jpg"
+    },
+    {
+        "id": 6,
+        "marca": "Ferrari",
+        "modelo" : "F430 Spider",
+        "años": "12",
+        "kilometraje": "75000",
+        "combustible": "gasolina",
+        "precio": "10500€",
+        "fichero": "Pink_Bright.png"
+    },
+    {
+        "id": 7,
+        "marca": "Smart",
+        "modelo" : "ForTwo Cabrio",
+        "años": "1",
+        "kilometraje": "1236",
+        "combustible": "eléctrico",
+        "precio": "25000€",
+        "fichero": "Smart_Posh.jpg"
+    },
+    {
+        "id": 8,
+        "marca": "mini cooper",
+        "modelo" : "F430 Spider",
+        "años": "12",
+        "kilometraje": "200836",
+        "combustible": "diesel",
+        "precio": "2800€",
+        "fichero": "Sporty.jpg"
+    },
+    {
+        "id": 9,
+        "marca": "Porsche",
+        "modelo" : "911 Roadster",
+        "años": "5",
+        "kilometraje": "60836",
+        "combustible": "gasolina",
+        "precio": "9800€",
+        "fichero": "Turqueise.jpg"
+    },
+    {
+        "id": 10,
+        "marca": "Nissan",
+        "modelo" : "Qashqai",
+        "años": "10",
+        "kilometraje": "100560",
+        "combustible": "gasolina",
+        "precio": "5000€",
+        "fichero": "Day_Nissan.jpg"
+    },
+    {
+        "id": 11,
+        "marca": "Seat",
+        "modelo" : "León",
+        "años": "8",
+        "kilometraje": "105836",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Family_Trip.jpg"
+    },
+    {
+        "id": 12,
+        "marca": "Ferrari",
+        "modelo" : "PS40 Superfast",
+        "años": "12",
+        "kilometraje": "75000",
+        "combustible": "gasolina",
+        "precio": "10500€",
+        "fichero": "Ferrari_Blue.jpg"
+    },
+    {
+        "id": 13,
+        "marca": "Mercedes Benz",
+        "modelo" : "SLS AMG",
+        "años": "7",
+        "kilometraje": "50000",
+        "combustible": "gasolina",
+        "precio": "73000€",
+        "fichero": "Glamour_Platino.jpg"
+    },
+    {
+        "id": 14,
+        "marca": "Grotti",
+        "modelo" : "Furia",
+        "años": "3",
+        "kilometraje": "150000",
+        "combustible": "gasolina",
+        "precio": "58500€",
+        "fichero": "La_furia.jpg"
+    },
+    {
+        "id": 15,
+        "marca": "Porsche",
+        "modelo" : "911",
+        "años": "5",
+        "kilometraje": "45620",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Red_Furious.jpg"
+    },
+    {
+        "id": 16,
+        "marca": "Nissan",
+        "modelo" : "Leaf",
+        "años": "1",
+        "kilometraje": "1236",
+        "combustible": "eléctrico",
+        "precio": "35000€",
+        "fichero": "Style_Red.jpg"
+    }
+]}

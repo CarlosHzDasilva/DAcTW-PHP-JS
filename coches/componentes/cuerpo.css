@@ -1,0 +1,17 @@
+a {
+    color: black;
+}
+
+#logo-imagen, #logo-empresa {
+    width: 60px;
+    height: auto;
+}
+
+#great-body {
+    background-image: url("./imagenes/background-image.webp");
+    background-color: rgb(151, 56, 56);
+}
+
+#foto {
+    min-width: 150px;
+}

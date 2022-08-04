@@ -1,0 +1,50 @@
+* {
+    cursor: default;
+}
+
+.ponga-selector {
+    cursor: pointer;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.rayuelas-rojas {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.rayuelas-r, .rayuelas-b, .rayuelas-w {
+    height: 30px;
+    width: 12px;
+}
+
+.rayuelas-rg, .rayuelas-g {
+    height: 257px;
+    width: 47px;
+    z-index: 0;
+}
+
+.rayuelas-r, .rayuelas-rg {
+    background-color: #BB2D3B;
+}
+
+.rayuelas-w {
+    background-color: white;
+}
+
+.contenedor-clave {
+    position: relative;
+}
+
+.imagen-index {
+    z-index: 1;
+    width: calc(65px * 5);
+    position: absolute;
+}

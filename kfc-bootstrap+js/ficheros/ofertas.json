@@ -1,0 +1,58 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Los más vendidos"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Cubos para 2"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Favoritos para compartir"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Menús para grupos"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Menús Burger"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Menús #pollopollo para 1"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Complementos"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Salsas"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Bebida"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Postres"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Menú infantil"
+  },
+  {
+    "codigo": 12,
+    "descripcion": "Burguer a la carta"
+  },
+  {
+    "codigo": 13,
+    "descripcion": "Ofertas"
+  },
+  {
+    "codigo": 14,
+    "descripcion": "Cupones"
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "tipo": "0",
+        "precio": "120000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "0",
+        "precio": "120000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "120000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "120000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "120000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "80000",
+        "dormitorios": "3",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "80000",
+        "dormitorios": "2",
+        "ciudad": "Arafo",
+        "email": "dardoschuster@hotmail.com"
+    },
+    {
+        "tipo": "1",
+        "precio": "80000",
+        "dormitorios": "2",
+        "ciudad": "Puerto de la Cruz",
+        "email": "dardoschuster@hotmail.com"
+    }
+]

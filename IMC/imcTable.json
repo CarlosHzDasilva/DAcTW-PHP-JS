@@ -1,0 +1,32 @@
+{
+  "general": [
+    {"imcMinRef": 0, "imcMaxRef": 16, "mensaje": "Su masa corporal es baja, su categoría es delgadez severa."},
+    {"imcMinRef": 16, "imcMaxRef": 17, "mensaje": "Su masa corporal es baja, su categoría es delgadez moderada."},
+    {"imcMinRef": 17, "imcMaxRef": 18.5, "mensaje": "Su masa corporal es bajo, su categoría es delgadez leve."},
+    {"imcMinRef": 18.5, "imcMaxRef": 24.9, "mensaje": "Su masa corporal es normal, su categoría es masa normal."},
+    {"imcMinRef": 24.9, "imcMaxRef": 29.9, "mensaje": "Su masa corporal corresponde a sobrepeso, su categoría es de pre-obesidad."},
+    {"imcMinRef": 29.9, "imcMaxRef": 34.9, "mensaje": "Su masa corporal corresponde a obesidad, su categoría es obesidad de tipo I."},
+    {"imcMinRef": 34.9, "imcMaxRef": 39.9, "mensaje": "Su masa corporal corresponde a obesidad, su categoría es obesidad de tipo II."},
+    {"imcMinRef": 39.9, "imcMaxRef": 1000, "mensaje": "Su masa corporal corresponde a obesidad, su categoría es obesidad de tipo III."}
+  ],
+  "hombres": [
+    {"edadMin": 16, "edadMax": 16, "imcRecomendado": "de 19 a 24"},
+    {"edadMin": 17, "edadMax": 17, "imcRecomendado": "de 20 a 25"},
+    {"edadMin": 18, "edadMax": 18, "imcRecomendado": "de 20 a 25"},
+    {"edadMin": 19, "edadMax": 24, "imcRecomendado": "de 21 a 26"},
+    {"edadMin": 25, "edadMax": 34, "imcRecomendado": "de 22 a 27"},
+    {"edadMin": 35, "edadMax": 54, "imcRecomendado": "de 23 a 28"},
+    {"edadMin": 55, "edadMax": 64, "imcRecomendado": "de 24 a 29"},
+    {"edadMin": 65, "edadMax": 90, "imcRecomendado": "de 25 a 30"}
+  ],
+  "mujeres": [
+    {"edadMin": 16, "edadMax": 17, "imcRecomendado": "de 19 a 24"},
+    {"edadMin": 18, "edadMax": 18, "imcRecomendado": "de 19 a 24"},
+    {"edadMin": 19, "edadMax": 24, "imcRecomendado": "de 19 a 24"},
+    {"edadMin": 25, "edadMax": 34, "imcRecomendado": "de 20 a 25"},
+    {"edadMin": 35, "edadMax": 44, "imcRecomendado": "de 21 a 26"},
+    {"edadMin": 45, "edadMax": 54, "imcRecomendado": "de 22 a 27"},
+    {"edadMin": 55, "edadMax": 64, "imcRecomendado": "de 23 a 28"},
+    {"edadMin": 65, "edadMax": 90, "imcRecomendado": "de 25 a 30"}
+  ]
+}

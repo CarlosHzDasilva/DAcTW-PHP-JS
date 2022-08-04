@@ -1,0 +1,27 @@
+[
+  {
+    "codigo": "B109",
+    "descripcion": "2 Menus double crunch",
+    "precio": 7.79
+  },
+  {
+    "codigo": "B113",
+    "descripcion": "Menú ahorro burguer",
+    "precio": 3.99
+  },
+  {
+    "codigo": "B128",
+    "descripcion": "Kream Ball con tu menú",
+    "precio": 1.79
+  },
+  {
+    "codigo": "B129",
+    "descripcion": "2 sundaes",
+    "precio": 3.00
+  },
+  {
+    "codigo": "B131",
+    "descripcion": "Menú infantil",
+    "precio": "Bebida"
+  }
+]
